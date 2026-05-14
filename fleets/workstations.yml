@@ -64,7 +64,7 @@ controls:
   #   labels_include_all:
   #     - "x86-based Windows hosts"
   # ```  
-  ###########################################################
+  ############################################################
   apple_settings:
     configuration_profiles:
       - path: ../platforms/macos/configuration-profiles/disable-bluetooth-file-sharing.mobileconfig
